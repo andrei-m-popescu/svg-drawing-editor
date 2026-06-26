@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+.toolbar {
+  margin-bottom: 10px;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+}
+button {
+  cursor: pointer;
+  margin-right: 5px;
+}
+svg {
+  border: 1px solid #333;
+  background: white;
+  cursor: crosshair;
+}
+.handle {
+  fill: white;
+  stroke: blue;
+  cursor: pointer;
+}
